@@ -1,6 +1,6 @@
 # **Part I: Introduction to Materials Science**
 
-##Fundamentals of Materials Science**
+## **Fundamentals of Materials Science**
 
 ### **1.1 What is Materials Science? The Foundation of Technological Progress**
 
