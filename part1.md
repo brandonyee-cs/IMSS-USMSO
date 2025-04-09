@@ -1,6 +1,6 @@
 # **Part I: Introduction to Materials Science**
 
-## **Chapter 1: Fundamentals of Materials Science**
+##Fundamentals of Materials Science**
 
 ### **1.1 What is Materials Science? The Foundation of Technological Progress**
 
@@ -233,7 +233,7 @@ This introductory chapter has laid the groundwork for understanding materials sc
 > **IMSS Olympiad Note: Core Focus for Success**
 > Success in the IMSS Materials Science Olympiad hinges on a strong grasp of the **relationships between structure (atomic to micro), properties (especially mechanical), and processing**. You need to move beyond definitions to understand the *why* behind material behavior and be able to apply these concepts to solve both qualitative reasoning problems and quantitative calculations, particularly those involving stress, strain, modulus, and material responses under load or temperature changes, as seen frequently in the sample exam questions.
 
-## **Chapter 2: Classification of Materials: A Deeper Look**
+## **Classification of Materials: A Deeper Look**
 
 ### **Why Classify Materials? (Revisited)**
 
